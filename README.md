@@ -7,7 +7,7 @@ This project is a full-stack chat application built using the MERN stack (MongoD
 - **File Attachments**: Supports uploads and attachments during chats.
 - **Auto-Scrolling:** Automatically scrolls to the latest message for a seamless user experience.
 - **Authentication**: Secure user authentication for private chats.
-- Modern UI: Clean and intuitive interface built with React.js.
+- **Modern UI**: Clean and intuitive interface built with React.js.
 
 ## Technology Stack
 - Frontend: React.js with modern hooks and state management.
