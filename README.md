@@ -4,7 +4,7 @@ This project is a full-stack chat application built using the MERN stack (MongoD
 ## Features
 - **Real-Time Messaging**: Powered by WebSockets for instant communication.
 - **Online Status Indicator**: Shows which users are currently online.
-- File Attachments: Supports uploads and attachments during chats.
+- **File Attachments**: Supports uploads and attachments during chats.
 - Auto-Scrolling: Automatically scrolls to the latest message for a seamless user experience.
 - Authentication: Secure user authentication for private chats.
 - Modern UI: Clean and intuitive interface built with React.js.
