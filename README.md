@@ -1,5 +1,5 @@
 # ChatApp
-This project is a full-stack chat application built using the MERN stack (**MongoDB**, **Express.js**, **React.js**, Node.js). It includes a variety of features designed to enhance user experience and is perfect for anyone looking to learn about real-time chat applications or add a robust project to their portfolio.
+This project is a full-stack chat application built using the MERN stack (**MongoDB**, **Express.js**, **React.js**, **Node.js**). It includes a variety of features designed to enhance user experience and is perfect for anyone looking to learn about real-time chat applications or add a robust project to their portfolio.
 
 ## Features
 - **Real-Time Messaging**: Powered by WebSockets for instant communication.
