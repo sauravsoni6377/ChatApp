@@ -13,4 +13,4 @@ This project is a full-stack chat application built using the MERN stack (**Mong
 - **Frontend**: React.js with modern hooks and state management.
 - **Backend**: Node.js with Express.js for handling API requests and WebSocket connections.
 - **Database**: MongoDB for storing user and chat data.
-- **WebSocket**: Real-time bidirectional communication.
+- **WebSocket**: Real-time bidirectional communication. 
